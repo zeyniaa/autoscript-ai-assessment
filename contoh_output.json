@@ -1,0 +1,12 @@
+{
+  "file_name": "moonlight-plaza.mp3",
+  "duration_seconds": 854.57,
+  "audio_quality": {
+    "silence_ratio": 0.01,
+    "clipping_detected": false,
+    "avg_volume_db": -25.3
+  },
+  "issues": [
+    "Kualitas audio ini menunjukkan volume rata-rata yang rendah dan hening yang sangat minim, mengindikasikan rasio signal-to-noise (SNR) yang buruk yang dapat menghambat akurasi AI, meskipun tidak ada clipping.\n\nRekomendasi teknis adalah menerapkan proses post-processing meliputi peningkatan gain, pengurangan noise adaptif, dan normalisasi, untuk meningkatkan rasio signal-to-noise (SNR) demi akurasi AI yang lebih baik."
+  ]
+}
